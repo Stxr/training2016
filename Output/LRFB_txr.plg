@@ -1,0 +1,29 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+D:\Documents\Me\类人非标\training2016\Project\RVMDK（uv4）\traing2016.uvproj
+Project File Date:  05/14/2016
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling main.c...
+..\..\User\main.c(36): warning:  #111-D: statement is unreachable
+..\..\User\main.c(44): error:  #79: expected a type specifier
+..\..\User\main.c(44): error:  #260-D: explicit type is missing ("int" assumed)
+..\..\User\main.c(44): error:  #147: declaration is incompatible with "void EXTI_ClearITPendingBit(uint32_t)" (declared at line 165 of "..\..\Libraries\FWlib\inc\stm32f10x_exti.h")
+..\..\User\main.c(45): error:  #169: expected a declaration
+..\..\User\main.c(50): warning:  #12-D: parsing restarts here after previous syntax error
+..\..\User\main.c(51): error:  #169: expected a declaration
+..\..\User\main.c(93): warning: At end of source:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_it.c...
+"..\..\Output\LRFB_txr.axf" - 5 Errors, 3 Warning(s).
+Target not created
+Build target 'Target 1'
+compiling main.c...
+..\..\User\main.c(36): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=652 RO-data=336 RW-data=20 ZI-data=1028  
+FromELF: creating hex file...
+"..\..\Output\LRFB_txr.axf" - 0 Errors, 1 Warning(s).
