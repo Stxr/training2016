@@ -27,6 +27,7 @@
 "..\..\output\stm32f10x_wwdg.o"
 "..\..\output\main.o"
 "..\..\output\stm32f10x_it.o"
+"..\..\output\motor.o"
 "..\..\output\delay.o"
 "..\..\output\sys.o"
 --library_type=microlib --strict --scatter "..\..\Output\LRFB_txr.sct"

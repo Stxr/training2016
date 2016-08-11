@@ -1,7 +1,7 @@
 ..\..\output\main.o: ..\..\User\main.c
 ..\..\output\main.o: ..\..\Libraries\CMSIS\stm32f10x.h
 ..\..\output\main.o: ..\..\Libraries\CMSIS\core_cm3.h
-..\..\output\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\..\output\main.o: D:\MDK5\ARM\ARMCC\bin\..\include\stdint.h
 ..\..\output\main.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
 ..\..\output\main.o: ..\..\User\stm32f10x_conf.h
 ..\..\output\main.o: ..\..\Libraries\FWlib\inc\stm32f10x_adc.h
@@ -34,6 +34,6 @@
 ..\..\output\main.o: ..\..\User\adc.h
 ..\..\output\main.o: ..\..\User\exti.h
 ..\..\output\main.o: ..\..\User\tool.h
-..\..\output\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+..\..\output\main.o: D:\MDK5\ARM\ARMCC\bin\..\include\stdio.h
 ..\..\output\main.o: ..\..\User\uart5.h
 ..\..\output\main.o: ..\..\User\jushou.h

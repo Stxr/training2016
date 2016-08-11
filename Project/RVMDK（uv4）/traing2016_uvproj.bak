@@ -562,11 +562,6 @@
               <FileType>1</FileType>
               <FilePath>..\..\User\stm32f10x_it.c</FilePath>
             </File>
-            <File>
-              <FileName>motor.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\..\User\motor.c</FilePath>
-            </File>
           </Files>
         </Group>
         <Group>
@@ -581,6 +576,16 @@
               <FileName>sys.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\..\SYSTEM\sys\sys.c</FilePath>
+            </File>
+          </Files>
+        </Group>
+        <Group>
+          <GroupName>C文件</GroupName>
+          <Files>
+            <File>
+              <FileName>motor.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\C文件\motor.c</FilePath>
             </File>
           </Files>
         </Group>
